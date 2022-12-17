@@ -57,10 +57,12 @@ main{
 
 .content-text-title{
     margin-bottom: 5px;
+    font-size: 14px;
 }
 
 .content-data{
     margin-top: 5px;
+    font-size: 12px;
 }
 
 .footer{
@@ -73,12 +75,11 @@ main{
     main{
         height: 1200px;
     }
+
     .box{
-        width: 100%;
+        width: 90%;
         display: block;
     }
-
-
 }
 
 
